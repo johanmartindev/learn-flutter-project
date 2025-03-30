@@ -23,7 +23,20 @@
           "terminal.integrated.copyOnSelection": true,
           "terminal.integrated.scrollback": 5000,
           "terminal.integrated.shellIntegration.history": 5000,
-          "storyExplorer.server.internal.enabled": false
+          "storyExplorer.server.internal.enabled": false,
+          "files.autoSave": "afterDelay",
+          "editor.tabSize": 2,
+          "editor.renderWhitespace": "trailing",
+          "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+          "keyboard.touchbar.enabled": false,
+          "git.autoStash": false,
+          "git.blame.editorDecoration.enabled": true,
+          "git.branchSortOrder": "alphabetically",
+          "github.gitProtocol": "ssh",
+          "merge-conflict.autoNavigateNextConflict.enabled": true,
+          "php.suggest.basic": false,
+          "php.validate.enable": false,
+          "javascript.format.insertSpaceAfterConstructor": true
     },
     "extensions": {
       "recommendations": [
