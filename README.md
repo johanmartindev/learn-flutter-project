@@ -1,2 +1,7 @@
-# learn-flutter-project
-Main project for learning flutter
+# Learning Mobile Development (with Flutter)
+## Submodules
+```
+git submodule add git@github.com:johanmartindev/Flutter-for-Beginners-3rd-edition.git flutter-for-beginners
+```
+## Learning Resources
+

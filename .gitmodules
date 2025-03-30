@@ -1,0 +1,3 @@
+[submodule "flutter-for-beginners"]
+	path = flutter-for-beginners
+	url = git@github.com:johanmartindev/Flutter-for-Beginners-3rd-edition.git

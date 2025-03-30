@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"name": "Main",
+			"path": "."
+		},
+		{
+			"name": "Flutter For Beginners Book",
+			"path": "flutter-for-beginners"
+		}
+	],
+	"settings": {
+        "files.exclude": {
+            "**/.git": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            "flutter-for-beginners": true,
+            "learn-flutter-project.code-workspace": true
+          },
+          "editor.wordWrap": "bounded",
+          "editor.wordWrapColumn": 120,
+          "workbench.commandPalette.history": 500,
+          "terminal.integrated.copyOnSelection": true,
+          "terminal.integrated.scrollback": 5000,
+          "terminal.integrated.shellIntegration.history": 5000,
+          "storyExplorer.server.internal.enabled": false
+    },
+    "extensions": {
+      "recommendations": [
+        "dart-code.dart-code",
+        "Dart-Code.flutter"
+      ]
+    }
+}
