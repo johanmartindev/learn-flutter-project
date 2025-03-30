@@ -1,14 +1,17 @@
 {
 	"folders": [
-		{
-			"name": "Main",
-			"path": "."
-		},
-		{
-			"name": "Flutter For Beginners Book",
-			"path": "flutter-for-beginners"
-		}
-	],
+    {
+      "name": "Main",
+      "path": "."
+    },
+    {
+      "name": "Flutter For Beginners Book",
+      "path": "flutter-for-beginners"
+    },
+    {
+      "path": "hello_world"
+    }
+  ],
 	"settings": {
         "files.exclude": {
             "**/.git": true,
